@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-     <h1>I am going to use this platform to say everything I feel about you everyday. Can you please visit it every morning. I love you Christine Msiska</h1>
+     <h1>My worst fear is to wake up and I can't talk to you again. I wish I will see you again sweetheart. I love you Christine Msiska</h1>
     </div>
   );
 }
